@@ -5,7 +5,6 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import {SplitText } from "gsap/SplitText";
 import Lenis from "lenis"
 import { element, roughness } from "three/src/nodes/TSL.js";
-import { Analytics } from "@vercel/analytics/next"
 
 
 document.addEventListener("DOMContentLoaded", () => {
